@@ -4,7 +4,7 @@ class program
     static void Main()
     {
 
-        //Problem1
+        //Problem 1
 
         int ConditionMet = 0;
 
@@ -48,7 +48,42 @@ class program
             Console.WriteLine("\nInvalid input. Please enter a grade between 0 and 100.\n");
         }
 
+        //Problem 2
+
+        Console.WriteLine("\n=== Feedback Message Using switch ===\n");
+
+        Console.Write("Enter a letter in grade (A-F) : ");
+        string letter = Console.ReadLine().ToUpper();
+
+        if (letter == "A")
+        {
+            Console.WriteLine("\nFeedback : Excellent!\n");
+        }
+        else if (letter == "B")
+        {
+            Console.WriteLine("\nFeedback : Great job!\n");
+        }
+        else if (letter == "C")
+        {
+            Console.WriteLine("\nFeedback : Good effort!\n");
+        }
+        else if (letter == "D")
+        {
+            Console.WriteLine("\nFeedback : Needs improvement.\n");
+        }
+        else if (letter == "F")
+        {
+            Console.WriteLine("\nFeedback : Failed. Better luck next time.\n");
+        }
+        else
+        {
+            Console.WriteLine("\nInvalid input. Please enter a letter from A to F only.\n");
+        }
+
+
     }
 }
+
+
 
 
