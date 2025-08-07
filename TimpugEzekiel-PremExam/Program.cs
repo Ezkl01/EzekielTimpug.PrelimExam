@@ -81,6 +81,75 @@ class program
         }
 
 
+        //Problem 3
+
+
+        Console.WriteLine("\n === Academic Status Checker ===\n");
+
+        Console.Write("Enter your grade                      : ");
+        int grade = int.Parse(Console.ReadLine());
+
+        Console.Write("Enter number of units taken           : ");
+        int units = int.Parse(Console.ReadLine());
+
+        Console.Write("Have you already paid? (yes/no)       : ");
+        string alrpaid = Console.ReadLine().ToUpper();
+
+        if (grade >= 75)
+        {
+            if (units >= 15)
+            {
+                if (alrpaid == "YES")
+                {
+
+                    Console.WriteLine("\nStatus : You are in good standing\n");
+
+                }
+                else
+                {
+                    Console.WriteLine("\nStatus : You have not paid your tuition yet.\n");
+                }
+
+            }
+            else
+            {
+                if (alrpaid == "YES")
+                {
+                    Console.WriteLine("\nStatus : The number of units taken is not enough.\n");
+                }
+                else
+                {
+                    Console.WriteLine("\nStatus : Not enough units taken and tuition not paid yet.\n");
+                }
+            }
+
+
+        }
+        else
+        {
+            if (units >= 15 && alrpaid == "YES")
+            {
+                Console.WriteLine("\nStatus : Grade is too low\n");
+            }
+            else if (units < 15 && alrpaid == "YES")
+            {
+                Console.WriteLine("\nStatus : Grade too low and not enough units taken.\n");
+            }
+            else if (units >= 15 && alrpaid == "NO")
+            {
+                Console.WriteLine("\nStatus : Grade too low and tuition not paid.\n");
+            }
+            else
+            {
+                Console.WriteLine("\nStatus : Grade too low, not enough units taken, and tuition not paid.\n");
+            }
+
+            
+
+        }
+
+
+
     }
 }
 
