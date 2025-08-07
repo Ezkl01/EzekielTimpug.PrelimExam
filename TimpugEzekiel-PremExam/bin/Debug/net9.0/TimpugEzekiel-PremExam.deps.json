@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TimpugEzekiel-PremExam/1.0.0": {
+        "runtime": {
+          "TimpugEzekiel-PremExam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimpugEzekiel-PremExam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\ezeki\Timpug-Prelim Exam\TimpugEzekiel-PremExam\bin\Debug\net9.0\TimpugEzekiel-PremExam.exe
+C:\Users\ezeki\Timpug-Prelim Exam\TimpugEzekiel-PremExam\bin\Debug\net9.0\TimpugEzekiel-PremExam.deps.json
+C:\Users\ezeki\Timpug-Prelim Exam\TimpugEzekiel-PremExam\bin\Debug\net9.0\TimpugEzekiel-PremExam.runtimeconfig.json
+C:\Users\ezeki\Timpug-Prelim Exam\TimpugEzekiel-PremExam\bin\Debug\net9.0\TimpugEzekiel-PremExam.dll
+C:\Users\ezeki\Timpug-Prelim Exam\TimpugEzekiel-PremExam\bin\Debug\net9.0\TimpugEzekiel-PremExam.pdb
+C:\Users\ezeki\Timpug-Prelim Exam\TimpugEzekiel-PremExam\obj\Debug\net9.0\TimpugEzekiel-PremExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeki\Timpug-Prelim Exam\TimpugEzekiel-PremExam\obj\Debug\net9.0\TimpugEzekiel-PremExam.AssemblyInfoInputs.cache
+C:\Users\ezeki\Timpug-Prelim Exam\TimpugEzekiel-PremExam\obj\Debug\net9.0\TimpugEzekiel-PremExam.AssemblyInfo.cs
+C:\Users\ezeki\Timpug-Prelim Exam\TimpugEzekiel-PremExam\obj\Debug\net9.0\TimpugEzekiel-PremExam.csproj.CoreCompileInputs.cache
+C:\Users\ezeki\Timpug-Prelim Exam\TimpugEzekiel-PremExam\obj\Debug\net9.0\TimpugEzekiel-PremExam.dll
+C:\Users\ezeki\Timpug-Prelim Exam\TimpugEzekiel-PremExam\obj\Debug\net9.0\refint\TimpugEzekiel-PremExam.dll
+C:\Users\ezeki\Timpug-Prelim Exam\TimpugEzekiel-PremExam\obj\Debug\net9.0\TimpugEzekiel-PremExam.pdb
+C:\Users\ezeki\Timpug-Prelim Exam\TimpugEzekiel-PremExam\obj\Debug\net9.0\TimpugEzekiel-PremExam.genruntimeconfig.cache
+C:\Users\ezeki\Timpug-Prelim Exam\TimpugEzekiel-PremExam\obj\Debug\net9.0\ref\TimpugEzekiel-PremExam.dll
